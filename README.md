@@ -8,3 +8,5 @@ Just take a look at the following notebooks:
 
 1. Mapping the GDELT events
 2. Mapping the GDELT knowledge graph
+
+[Home page] (https://gisfromscratch.github.io/gdelt-notebooks/)
