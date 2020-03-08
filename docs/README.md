@@ -10,6 +10,7 @@ Just take a look at the following notebooks:
 2. Mapping the GDELT knowledge graph
 
 ### Requirements:
+- arcgis-1.8.0
 - gdelt-0.1.10.6
-- matplotlib
-- seaborn
+- matplotlib-2.2.2
+- seaborn-0.8.1
