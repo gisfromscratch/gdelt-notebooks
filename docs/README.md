@@ -6,7 +6,7 @@ This repository contains a bunch of notebooks for using advanced analytics on th
 
 Just take a look at the following notebooks:
 
-1. (Mapping the GDELT events)[https://github.com/gisfromscratch/gdelt-notebooks/blob/master/notebooks/Mapping%20GDELT%20Events.ipynb]
+1. [Mapping the GDELT events](https://github.com/gisfromscratch/gdelt-notebooks/blob/master/notebooks/Mapping%20GDELT%20Events.ipynb)
 2. Mapping the GDELT knowledge graph
 
 ### Requirements:
