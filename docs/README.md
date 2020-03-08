@@ -11,3 +11,5 @@ Just take a look at the following notebooks:
 
 ### Requirements:
 - gdelt-0.1.10.6
+- matplotlib
+- seaborn
