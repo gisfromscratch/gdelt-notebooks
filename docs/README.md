@@ -8,3 +8,10 @@ Just take a look at the following notebooks:
 
 1. Mapping the GDELT events
 2. Mapping the GDELT knowledge graph
+
+### Requirements:
+The arcgis module works with Jupyter <= 5.7.8. Jupyter >= 6.0.0 does not display the map widget.
+- arcgis-1.8.0
+- gdelt-0.1.10.6
+- matplotlib-2.2.2
+- seaborn-0.8.1
